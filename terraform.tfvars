@@ -1,0 +1,5 @@
+resource_group_name = "MyResourceGroup1"
+vm_name             = "MyVM"
+location            = "eastus"
+admin_username      = "azureuser"
+admin_password      = "MyP@ssword123"
